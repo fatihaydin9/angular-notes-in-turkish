@@ -1,5 +1,25 @@
 # Angular 18 Çalışma Notları
 
+# İçindekiler
+
+- [1. Angular CLI (Command-Line Interface)](#1-angular-cli-command-line-interface)
+- [2. Temel Dosya Yapısı](#2-temel-dosya-yapısı)
+- [3. Angular Çalışma Ortamı: Eklenti ve Snippet Kurulumları](#3-angular-çalışma-ortamı-eklenti-ve-snippet-kurulumları)
+- [4. TypeScript Temelleri](#4-typescript-temelleri)
+  - [4.1. Type Inference](#41-type-inference)
+  - [4.2. Interfaces](#42-interfaces)
+  - [4.3. TypeScript Türleri](#43-typescript-türleri)
+  - [4.4. TypeScript’de Gelişmiş Türler](#44-typescriptde-gelişmiş-türler)
+  - [4.5. Decorators in TypeScript](#45-decorators-in-typescript)
+- [5. Angular Komponent Yapısı](#5-angular-komponent-yapısı)
+  - [5.1. Angular’da Komponent Oluşturma](#51-angular’da-komponent-oluşturma)
+  - [5.2. Angular’da Komponent Ömrü Metodları (Component Lifecycle Hooks)](#52-angular’da-komponent-ömrü-metodları-component-lifecycle-hooks)
+- [6. Angular Servis Mimarisi](#6-angular-servis-mimarisi)
+- [7. Decorator Pattern & Decorators in Angular](#7-decorator-pattern--decorators-in-angular)
+  - [7.1. Decorator Pattern Fundamentals](#71-decorator-pattern-fundamentals)
+  - [7.2. Angular'da @ViewChild, @Input, @Output Dekorasyonları](#72-angularda-viewchild-input-output-dekorasyonları)
+
+
 ## 1. Angular CLI (Command-Line Interface)
 
 İlk önce homebrew kurulumu olmalı : 
