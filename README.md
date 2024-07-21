@@ -294,7 +294,7 @@ Dosyayı kaydettiğimizde formatlanması için Auto Format On Save özelliğini 
 
 TypeScript, Javascript’e ek olarak “type” katmanını getiren, Javascript ‘deki zayıf tip kontrolünün aksine net bir tip tanımı ve dönüşümü sağlayan bir yapıdır ve .js yerine .ts dosyalarıyla ifade edilir. TypeScript ‘de arayüzler (interface) aracılığıyla tip belirlemeleri yapılır, veya örtülü tanımlanan değişkenler için değişken tipini TypeScript belirleyerek olası hatalar minimize edilir. Ayrıca tiplerle ilgili sorunlar compile işlemi sırasında (compile time) ortaya çıktığından; run-time esnasındaki hatalar minimum seviyeye indirgenir.
 
-### 4.1. Type Inferance
+### 4.1. Type Inference
 
 ```tsx
 let helloWorld = "Hello World";
