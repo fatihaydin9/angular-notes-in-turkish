@@ -12,12 +12,12 @@
   - [4.4. TypeScript’de Gelişmiş Türler](#44-typescript-de-gelişmiş-türler)
   - [4.5. Decorators in TypeScript](#4-5-decorators-in-typescript)
 - [5. Angular Komponent Yapısı](#5-angular-komponent-yapısı)
-  - [5.1. Angular’da Komponent Oluşturma](#51-angular’da-komponent-oluşturma)
-  - [5.2. Angular’da Komponent Ömrü Metodları (Component Lifecycle Hooks)](#52-angular’da-komponent-ömrü-metodları-component-lifecycle-hooks)
+  - [5.1. Angular’da Komponent Oluşturma](#51-angular-da-komponent-oluşturma)
+  - [5.2. Angular’da Komponent Ömrü Metodları (Component Lifecycle Hooks)](#52-angular-da-komponent-ömrü-metodları-component-lifecycle-hooks)
 - [6. Angular Servis Mimarisi](#6-angular-servis-mimarisi)
 - [7. Decorator Pattern & Decorators in Angular](#7-decorator-pattern--decorators-in-angular)
   - [7.1. Decorator Pattern Fundamentals](#71-decorator-pattern-fundamentals)
-  - [7.2. Angular'da @ViewChild, @Input, @Output Dekorasyonları](#72-angularda-viewchild-input-output-dekorasyonları)
+  - [7.2. Angular'da @ViewChild, @Input, @Output Dekorasyonları](#7-2-angular-da-viewchild-input-output-dekorasyonları)
 
 
 ## 1. Angular CLI (Command-Line Interface)
