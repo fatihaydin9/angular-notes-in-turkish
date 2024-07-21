@@ -4,7 +4,7 @@
 
 - [1. Angular CLI (Command-Line Interface)](#1-angular-cli-command-line-interface)
 - [2. Temel Dosya Yapısı](#2-temel-dosya-yapısı)
-- [3. Angular Çalışma Ortamı: Eklenti ve Snippet Kurulumları](#3-angular-çalışma-ortamı-eklenti-ve-snippet-kurulumları)
+- [3. Angular Çalışma Ortamı: Eklenti ve Snippet Kurulumları](#3-angular-çalışma-ortamı--eklenti-ve-snippet-kurulumları)
 - [4. TypeScript Temelleri](#4-typescript-temelleri)
   - [4.1. Type Inference](#41-type-inference)
   - [4.2. Interfaces](#42-interfaces)
