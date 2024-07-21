@@ -1,8 +1,4 @@
-Bu repository içerisinde Angular 18, PrimeNG, NodeJS ile örnek bir CRUD Single Page App
-
-
 # Angular 18 Çalışma Notları
-
 
 ## 1. Angular CLI (Command-Line Interface)
 
